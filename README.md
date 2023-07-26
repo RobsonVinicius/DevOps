@@ -19,3 +19,4 @@ Repositório dedicado a estudos em DevOps
 ## 📚 Livros
 
 + [Effective DevOps](https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity-ebook/dp/B01GGQKXOE?tag=javamysqlanta-20)
++ [The DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002?tag=javamysqlanta-20)
