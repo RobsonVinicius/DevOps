@@ -16,6 +16,7 @@ Repositório dedicado a estudos em DevOps
 + [Learn DevOps: The Complete Kubernetes Course](https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/?ranMID=39197&ranEAID=CuIbQrBnhiw&ranSiteID=CuIbQrBnhiw-Wx3A.pydio6pQOSz9KIzcQ&LSNPUBID=CuIbQrBnhiw&utm_source=aff-campaign&utm_medium=udemyads)
 + [DevOps , CI/CD(Continuous Integration/Delivery for Beginners](https://www.udemy.com/course/ci-cd-devops/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-lIwHgC2F1IFASSem3esxOw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)
 + [Learn DevOps: The Complete Kubernetes Course](https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/?ranMID=39197&ranEAID=CuIbQrBnhiw&ranSiteID=CuIbQrBnhiw-szKBHTopn9DWYth42oahhg&LSNPUBID=CuIbQrBnhiw&utm_source=aff-campaign&utm_medium=udemyads)
++ [DevOps , CI/CD(Continuous Integration/Delivery for Beginners](https://www.udemy.com/course/ci-cd-devops/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-GFXAfv4fiN7HcWl5M1ntrg&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=JVFxdTr9V80)
 <br>
 
 ## 📚 Livros
