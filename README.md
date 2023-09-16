@@ -15,7 +15,7 @@ Repositório dedicado a estudos em DevOps
 + [Jenkins, From Zero To Hero: Become a DevOps Jenkins Master - {Udemy}](https://www.udemy.com/course/jenkins-from-zero-to-hero/?ranMID=39197&ranEAID=CuIbQrBnhiw&ranSiteID=CuIbQrBnhiw-tr24eFk6.j7ZUPGsTuUjsQ&utm_source=aff-campaign&LSNPUBID=CuIbQrBnhiw&utm_medium=udemyads)
 + [Learn DevOps: The Complete Kubernetes Course](https://www.udemy.com/course/learn-devops-the-complete-kubernetes-course/?ranMID=39197&ranEAID=CuIbQrBnhiw&ranSiteID=CuIbQrBnhiw-Wx3A.pydio6pQOSz9KIzcQ&LSNPUBID=CuIbQrBnhiw&utm_source=aff-campaign&utm_medium=udemyads)
 + [DevOps , CI/CD(Continuous Integration/Delivery for Beginners](https://www.udemy.com/course/ci-cd-devops/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-lIwHgC2F1IFASSem3esxOw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)
-
++ [The Docker for DevOps course: From development to production](https://www.udemy.com/course/the-docker-for-devops-course-from-development-to-production/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-ULlvwaIl.3et1kv9rnXAZA&utm_medium=udemyads&utm_source=aff-campaign)
 <br>
 
 ## 📚 Livros
