@@ -24,7 +24,8 @@ Repositório dedicado a estudos em DevOps
 
 | Capa | Livro | Autor | Livro Físico | Versão Kindle | 
 | --- | --- | --- | --- | --- |
-| <img src="https://m.media-amazon.com/images/I/61uelQAJ1SL._SL1000_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Manual de DevOps: Como Obter Agilidade, Confiabilidade e Segurança em Organizações Tecnológicas | Kim, Humble, Willis | [Veja Mais](https://amzn.to/3ETTmbV) | [Veja Mais](https://amzn.to/3Xjk6ZD)|
+| <img src="https://m.media-amazon.com/images/I/61uelQAJ1SL._SL1000_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Manual de DevOps: Como Obter Agilidade, Confiabilidade e Segurança em Organizações Tecnológicas | Kim, Humble, Willis | [Veja Mais](https://amzn.to/3ETTmbV) | [Veja Mais](https://amzn.to/3Xjk6ZD) |
+| <img src="https://m.media-amazon.com/images/I/61kFq3MjIIL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | DevOps Para Leigos: os Primeiros Passos Para o Sucesso | Freeman | [Veja Mais](https://amzn.to/4iAUq31) | [Veja Mais](https://amzn.to/43gimnJ) |
 
 + [Effective DevOps](https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity-ebook/dp/B01GGQKXOE?tag=javamysqlanta-20)
 + [The DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002?tag=javamysqlanta-20)
