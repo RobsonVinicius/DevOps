@@ -22,6 +22,10 @@ Repositório dedicado a estudos em DevOps
 
 ## 📚 Livros
 
+| Capa | Livro | Autor | Livro Físico | Versão Kindle | 
+| --- | --- | --- | --- | --- |
+| <img src="https://m.media-amazon.com/images/I/61uelQAJ1SL._SL1000_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Manual de DevOps: Como Obter Agilidade, Confiabilidade e Segurança em Organizações Tecnológicas | Kim, Humble, Willis | [Veja Mais](https://amzn.to/3ETTmbV) | [Veja Mais](https://amzn.to/3Xjk6ZD)|
+
 + [Effective DevOps](https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity-ebook/dp/B01GGQKXOE?tag=javamysqlanta-20)
 + [The DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002?tag=javamysqlanta-20)
 + [DevOps for Developers](https://www.amazon.com/DevOps-Developers-Experts-Voice-Development/dp/1430245697?tag=javamysqlanta-20)
