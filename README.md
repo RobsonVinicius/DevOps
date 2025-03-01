@@ -11,7 +11,7 @@ Repositório dedicado a estudos em DevOps
 ## 📚 Livros
 
 | Capa | Livro | Autor | Livro Físico | Versão Kindle | 
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | :---: | :---: |
 | <img src="https://m.media-amazon.com/images/I/61uelQAJ1SL._SL1000_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Manual de DevOps: Como Obter Agilidade, Confiabilidade e Segurança em Organizações Tecnológicas | Kim, Humble, Willis | [Veja Mais](https://amzn.to/3ETTmbV) | [Veja Mais](https://amzn.to/3Xjk6ZD) |
 | <img src="https://m.media-amazon.com/images/I/61kFq3MjIIL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | DevOps Para Leigos: os Primeiros Passos Para o Sucesso | Freeman | [Veja Mais](https://amzn.to/4iAUq31) | [Veja Mais](https://amzn.to/43gimnJ) |
 | <img src="https://m.media-amazon.com/images/I/61B-Qw3uNUL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Dev-Sec-Ops com Jenkins: Criando uma esteira de entrega contínua | Lerbirato | [Veja Mais](https://amzn.to/3Db35tG) | [Veja Mais](https://amzn.to/4ilkIpL) |
